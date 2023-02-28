@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.dir {
+    background-color: aliceblue;
+    padding: 4px;
+    margin: 2px 0;
+}
+
+.dir:hover {
+    color: yellow;
+    cursor: pointer;
+}
